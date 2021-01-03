@@ -1,0 +1,29 @@
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\bin\Debug\SQLEye v1.exe.config
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\bin\Debug\SQLEye v1.exe
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\bin\Debug\SQLEye v1.pdb
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\bin\Debug\Guna.UI2.dll
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.csprojAssemblyReference.cache
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\obj\Debug\SQLEye_v1.Form1.resources
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\obj\Debug\SQLEye_v1.Properties.Resources.resources
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.csproj.GenerateResource.cache
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.csproj.CoreCompileInputs.cache
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.csproj.CopyComplete
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.exe
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.pdb
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\bin\Debug\Guna.UI.dll
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\obj\Debug\SQLEye_v1.Login.resources
+C:\Users\dorki\source\repos\SQLEye v1\SQLEye v1\obj\Debug\SQLEye_v1.Main.resources
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.csprojAssemblyReference.cache
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\obj\Debug\SQLEye_v1.frmAlert.resources
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\obj\Debug\SQLEye_v1.Login.resources
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\obj\Debug\SQLEye_v1.Main.resources
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\obj\Debug\SQLEye_v1.Properties.Resources.resources
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.csproj.GenerateResource.cache
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.csproj.CoreCompileInputs.cache
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.exe
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.pdb
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\bin\Debug\SQLEye v1.exe.config
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\bin\Debug\SQLEye v1.exe
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\bin\Debug\SQLEye v1.pdb
+C:\Users\dorki\Desktop\SQLEye v1\SQLEye v1\obj\Debug\SQLEye v1.csproj.CopyComplete
