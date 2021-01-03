@@ -15,7 +15,7 @@ namespace SQLEye_v1
         static void Main()
         {
 
-            OnProgramStart.Initialize("SQLeye", "217708", "EboDokvxNM0a2DYLFvuHnpsyW2C1wV8AgY8", "1.1");
+            OnProgramStart.Initialize("", "", "", "");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
